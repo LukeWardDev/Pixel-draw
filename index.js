@@ -1,0 +1,1 @@
+//Set 16 x 16 grid when site first loaded

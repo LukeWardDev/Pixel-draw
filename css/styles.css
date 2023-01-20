@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section.site-head{
+    display: flex;
+    justify-content: center;
+}
+
+section.site-head h1{
+    font-size: 3em;
+}
+
+section.app-inputs{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section.set-color{
+    display: flex;
+    gap: 1rem;
+}
+
+section.app-inputs button{
+    width: 8rem;
+    height: 3rem;
+    background-color: rgba(86, 186, 233, 0.801);
+    border: 0;
+    border-radius: 2rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+#color{
+    width: 8rem;
+    height: 3rem;
+}
+
+.grid-area{
+    display: flex;
+    justify-content: center;
+}
